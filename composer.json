@@ -1,0 +1,14 @@
+{
+    "name": "veggigit/flow-api-php",
+    "description": "php client flow.cl",
+    "authors": [
+        {
+            "name": "veggigit",
+            "email": "estebancajina@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0",
+        "ext-curl": "*"
+    }
+}
